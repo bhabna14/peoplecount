@@ -118,7 +118,7 @@
                                 </div>
                             </div>
                             <div class="col-4">
-                                <img src ="{{ asset('assets/img/visitor/image4.JPG') }}">
+                                <img src ="{{ asset('assets/img/visitor/image4.png') }}">
                             </div>
                         </div>
                     </div>
