@@ -14,7 +14,7 @@
                                 <div class="ps-4 pt-4 pe-3 pb-4">
                                     <div class="">
                                     </div>
-                                    <h6 class="mb-2 tx-12" style="color: white">NORTH ZONE</h6>
+                                    <h6 class="mb-2 tx-12" style="color: white">EAST ZONE</h6>
                                     <div class="pb-0 mt-0">
                                         <div class="">
                                             <p class="mb-0 fs-14 text-muted">
@@ -40,7 +40,7 @@
                             <div class="col-8" id="card2"  style="background-color: #38CAB3 !important">
                                 <div class="ps-4 pt-4 pe-3 pb-4">
                                     <div class="">
-                                        <h6 class="mb-2 tx-12" style="color: white">SOUTH ZONE</h6>
+                                        <h6 class="mb-2 tx-12" style="color: white">WEST ZONE</h6>
                                     </div>
                                     <div class="pb-0 mt-0">
                                         <div class="">
@@ -66,7 +66,7 @@
                             <div class="col-8" id="card3"  style="background-color: #38CAB3 !important">
                                 <div class="ps-4 pt-4 pe-3 pb-4">
                                     <div class="">
-                                        <h6 class="mb-2 tx-12" style="color: white">EAST ZONE</h6>
+                                        <h6 class="mb-2 tx-12" style="color: white">NORTH ZONE</h6>
                                     </div>
                                     <div class="pb-0 mt-0">
                                         <div class="">
@@ -92,7 +92,7 @@
                             <div class="col-8" id="card4"  style="background-color: #38CAB3 !important">
                                 <div class="ps-4 pt-4 pe-3 pb-4">
                                     <div class="">
-                                        <h6 class="mb-2 tx-12" style="color: white">WEST ZONE</h6>
+                                        <h6 class="mb-2 tx-12" style="color: white">SOUTH ZONE</h6>
                                     </div>
                                     <div class="pb-0 mt-0">
                                         <div class="">
